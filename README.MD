@@ -24,6 +24,7 @@ because at this stage, it's like **giving a human body to an ant**.
 - [x] Add docs.
 - [x] Test on GPT5, Deepseek, Claude, Gemini.
 - [ ] Test on Claude Fable 5/Claude Mythos 5
+- [x] Create **and** use our Own AI.
 
 ##Results
 
