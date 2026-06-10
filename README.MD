@@ -18,7 +18,7 @@ because at this stage, it's like **giving a human body to an ant**.
 
 [Homepage](https://renderon.net)
 
-## Cases à cocher
+## Projects status
 
 - [x] Project Start
 - [x] Add docs.
